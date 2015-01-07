@@ -4,7 +4,7 @@ This is a quick demo showing how to make sure your [Datomic
 Schematode](https://github.com/moquist/datomic-schematode) schema
 loads properly -- or, more precisely, this shows what happens when you
 put crazy attribute types in your schema. This is relevant, because
-it's really easy to type :int when you meant to say :long.
+it's really easy to type ```:int``` when you meant to say ```:long```.
 
 ## Usage
 
